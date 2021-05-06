@@ -16,4 +16,4 @@ I have made an InputConstraint app which take constraint and then check the data
 
 ## APK
 
-[APK]()
+[APK](https://github.com/gauri547/Input-Constraints/releases/download/v2/app-debug.apk)
